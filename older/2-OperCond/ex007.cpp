@@ -13,7 +13,6 @@ int main()
 
   cin >> type;
 
-
   switch(type)
   {
    case 'c':
